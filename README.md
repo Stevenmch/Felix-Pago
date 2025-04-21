@@ -1,6 +1,5 @@
 # Felix-Pago
 
-# Felix-pago-test
 # Real-Time Fraud Detection Pipeline with Apache Beam, Pub/Sub, Dataflow, and BigQuery
 
 This project implements a real-time fraud detection system using Google Cloud Platform services like Pub/Sub, Dataflow, and BigQuery, powered by Apache Beam to define the streaming data processing pipeline.
